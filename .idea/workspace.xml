@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9da8c063-056d-4854-a43c-43cf86fe6425" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Book_Review.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Top-100 Trending Books.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer reviews.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/book_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner.py" afterDir="false" />
-    </list>
+    <list default="true" id="9da8c063-056d-4854-a43c-43cf86fe6425" name="Changes" comment="Projeto inicial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="webminst" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -101,6 +94,28 @@
       <option name="presentableId" value="Default" />
       <updated>1703684092863</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto inicial">
+      <option name="closed" value="true" />
+      <created>1703688463811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703688463811</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Projeto inicial">
+      <option name="closed" value="true" />
+      <created>1703688628644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703688628644</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto inicial sobre livros" />
+    <MESSAGE value="Projeto inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto inicial" />
   </component>
 </project>
