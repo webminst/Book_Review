@@ -20,3 +20,5 @@ fig2 = px.histogram(df_books['book price'])
 col1, col2 = st.columns(2)
 col1.plotly_chart(fig)
 col2.plotly_chart(fig2)
+
+
